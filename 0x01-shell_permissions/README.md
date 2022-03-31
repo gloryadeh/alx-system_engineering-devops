@@ -9,3 +9,4 @@ The file 5-execute add execute permission to the owner of the file hello
 The 6-multiple_permissions file is long to explain
 The 7-everybody adds execution rights to everybody
 The 8-James_Bond also does something
+The 9-John_Doe sets files mode specially
