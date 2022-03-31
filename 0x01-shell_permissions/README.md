@@ -14,3 +14,5 @@ The 10-mirror_permissions is mirroring oermissions
 The 11-dirctories_permissions adds execute permission to all subdirectories
 The 12-directories_permissions makes a directory my_dir with 751 
 permissions
+The 13-change_group creates a directory my_dir and changes its group to school
+The 100-change_owner_and_group changes the owner to vincent and changes the group owner to staff for all files
