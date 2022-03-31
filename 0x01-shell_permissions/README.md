@@ -7,3 +7,4 @@ The file 3-new_owner changes the owner of the hello file to user betty
 The file 4-empty creates an empty file called hello
 The file 5-execute add execute permission to the owner of the file hello
 The 6-multiple_permissions file is long to explain
+7-everybody adds execution rights to everybody
