@@ -11,3 +11,4 @@ The 7-everybody adds execution rights to everybody
 The 8-James_Bond also does something
 The 9-John_Doe sets files mode specially
 The 10-mirror_permissions is mirroring oermissions
+The 11-dirctories_permissions adds execute permission to all subdirectories
