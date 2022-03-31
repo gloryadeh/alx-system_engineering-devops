@@ -16,3 +16,4 @@ The 12-directories_permissions makes a directory my_dir with 751
 permissions
 The 13-change_group creates a directory my_dir and changes its group to school
 The 100-change_owner_and_group changes the owner to vincent and changes the group owner to staff for all files
+The 101-symbolic_link_permissions makes a symbolic link _hello to file hello and changes the owner and group
