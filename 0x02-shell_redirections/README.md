@@ -3,3 +3,4 @@ File 0-hello_world print out hello world
 The file 1-confused_smiley displays a confused smiley
 The file 2-hellofile displays contents in /etc/passwd/.
 file 3-twofiles displays the contents of 2 files.
+The file 4-lastlines displays the last 10 lines in the file.
