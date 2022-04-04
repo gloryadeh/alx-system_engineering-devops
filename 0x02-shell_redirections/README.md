@@ -7,3 +7,4 @@ The file 4-lastlines displays the last 10 lines in the file.
 The file 5-firstlines shows the first 10 lines of the file
 The file 6-third_line displays the third line
 The file 7-file makes a noisy file.
+The README.md file saves the current state of the directory.
